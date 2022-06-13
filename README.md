@@ -1,4 +1,4 @@
-# BoxNovel_Scrape
+# BoxNovel_Scraper
 Simple script to scrape a complete novel from BoxNovel
 
 You will need to run using the following: python main.py "URL of the novel"
