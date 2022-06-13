@@ -65,7 +65,7 @@ for itr in dir_list:
 #print(previous)
 
 
-for counter in range(previous, 10):
+for counter in range(previous, newest+1):
     chapter = '%01d' % counter
     str = url
     #print(chapter)
